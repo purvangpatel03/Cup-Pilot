@@ -14,11 +14,11 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-      apiKey: 'AIzaSyDs56tS4vKd6TD-xCyVB1WC6I4kTMmaeHA',
-      appId: '1:917221170864:android:deb9201468fd25bf7e2575',
-      messagingSenderId: '917221170864',
-      projectId: 'coffee-app-6e499',
-      storageBucket: 'coffee-app-6e499.appspot.com',
+      apiKey: 'your Api key',
+      appId: 'your app id',
+      messagingSenderId: 'your messagingSenderId',
+      projectId: 'your projectId',
+      storageBucket: 'your storageBucket',
     ),
   );
   runApp(const MyApp());
