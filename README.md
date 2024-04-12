@@ -1,16 +1,20 @@
-# untitled
+## CupPilot
 
-A new Flutter project.
+Developed Cup Pilot, a comprehensive Flutter app for coffee enthusiasts. 
 
-## Getting Started
+This user- friendly app showcases various coffee shops with their detailed menus, allowing effortless coffee ordering from different restaurants. 
 
-This project is a starting point for a Flutter application.
+Cup Pilot integrates a secure in- app wallet for convenient balance management and boasts a complete order history with full item details. 
 
-A few resources to get you started if this is your first Flutter project:
+Firebase ensures secure storage of user data, menus, order history, and wallet information, creating a delightful coffee ordering experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Few Screenshots of CupPilot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="url"><img src="https://github.com/purvangpatel03/Cup-Pilot/blob/main/assets/coffee_home_page.png" align="left" width="160" ></a>
+
+<a href="url"><img src="https://github.com/purvangpatel03/Cup-Pilot/blob/main/assets/coffee_res_page.png" align="left" width="160" ></a>
+
+<a href="url"><img src="https://github.com/purvangpatel03/Cup-Pilot/blob/main/assets/coffee_cart_page.png" align="left" width="160" ></a>
+
+<a href="url"><img src="https://github.com/purvangpatel03/Cup-Pilot/blob/main/assets/coffee_order_page.png" align="left" width="160" ></a>
+
